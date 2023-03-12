@@ -6,3 +6,6 @@ This project is a full MERN (MongoDB, express JS, React, Node JS) web app using 
 
 
 
+![Screenshot 2023-03-12 at 8 50 46 PM](https://user-images.githubusercontent.com/96854429/224554396-458ef8ff-ae82-4fe8-b9c2-27cf5de118cd.png)
+
+![Screenshot 2023-03-12 at 8 52 30 PM](https://user-images.githubusercontent.com/96854429/224554476-ae235770-7081-4cac-a170-07e475b77b63.png)
